@@ -303,7 +303,7 @@ footer {
     height: auto;   
 }
 .footer-links {
-    margin: auto;
+    margin: auto 0;
     width: 50%;
 }
 @media all and (max-width: 768px) {
